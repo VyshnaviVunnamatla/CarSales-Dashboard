@@ -9,7 +9,8 @@ THE REPORT
 
 Insights
 
-1.A summary metric shows the values of Average selling price,total revenue,average mileage,total number of cars sold,minimum and maximum selling price.
+    1.A summary metric shows the values of Average selling price,total revenue,average mileage,total number of cars 
+      sold,minimum and maximum selling price.
 
 2.Sales by top car brands are calculated in which Mahindra has the highest selling price.
 
@@ -22,6 +23,7 @@ Insights
 6.Average selling price and Mileage by taking kms driven is calculated based on brands of cars where Mahindra has the highest.
 
 7.Total Sales and Revenue is calculated of each brand of cars.
+
 
 
 Summary
